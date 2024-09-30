@@ -1,0 +1,35 @@
+body {
+    padding: 0 0;
+    width: 0 0;
+    background-color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    padding: 0;
+    background-color: rgb(73, 73, 73);
+}
+
+h1 {
+    font-size: 170%;
+    text-align: center;
+    align-items: center;
+    border-radius: 2%;
+    border-bottom: dashed;
+    border-width: 5%;
+
+}
+
+.ko {
+    font-size: 100%;
+    margin-left: 60%;
+}
+
+.fe {
+    margin-left: 20%;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(73, 73, 73);
+}
